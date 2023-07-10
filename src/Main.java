@@ -504,6 +504,8 @@ public class Main {
                 }
 
             }
+
+
             if (opcao == 14) {
                 System.out.println("_____VALORES RESERVAS_____");
                 hotelApolo.valorTotal();
